@@ -1,0 +1,4 @@
+flask
+flask-cors
+py_vollib
+numpy
